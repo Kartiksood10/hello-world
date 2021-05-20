@@ -1,4 +1,4 @@
 # hello-world
 First Project!
 
-Hey everyone, I'm Kartik and im currently pursuing an undergrad degree in Computer Science from Thapar Institute of engineering and Technology. My interests are watching football, gaming and programming. I scored 93% in my class 12th CBSE boards.
+Hi everyone! I'm Kartik Sood and i'm currently pursuing my undergrad degree in Computer science from Thapar Institute of Engineering and Technology, Patiala. My interests are Football, gaming, programming and watching sit-coms. Achievements : CBSE Class 12 - 93%, Karate Black Belt, School House Captain, District level-Cricket and Football, Participated in NASA Space Settlement Program.
